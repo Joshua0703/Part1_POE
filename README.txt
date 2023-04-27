@@ -4,5 +4,7 @@ The first thing a user will see is a very simple interface in which the user can
 
 In order to compile the application, download the file and open Visual Studio Code. Then you will need to download the C# support extension and .NET code for Microsoft. Then once that is done open the file and run. 
 
+https://github.com/Joshua0703/Part1_POE
+
 Hope you enjoy 
 Happy Cooking and baking
